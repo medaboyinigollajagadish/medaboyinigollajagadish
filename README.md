@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Medaboyini Golla Jagadish
-
 ## 💫 About Me:
 Motivated MSc graduate with strong analytical, communication and coordination skills. 9+ months of experience
 working into dataspace with expertise in Adavance Excel, SQL, Power BI & Python, Tabelau. Nasscom Certified Data
