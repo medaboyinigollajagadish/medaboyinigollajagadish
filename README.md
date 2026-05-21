@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Medaboyini Golla Jagadish
 
 ## 💫 About Me:
-Motivated MSc graduate with strong analytical, communication and coordination skills.
-
+Motivated MSc graduate with strong analytical, communication and coordination skills. 9+ months of experience
+working into dataspace with expertise in Adavance Excel, SQL, Power BI & Python, Tabelau. Nasscom Certified Data
+Analyst. Seeking for Data analyst opportunity.
+Quick Learner | Analytical Thinking | Interested working with Data
 📊 Data Analyst with hands-on experience in:
 - Advanced Excel
 - SQL
@@ -19,7 +21,7 @@ Motivated MSc graduate with strong analytical, communication and coordination sk
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/medaboyini-golla-jagadish-aab09b333)
 
-[GitHub](https://github.com/mgjagadish)
+[GitHub](https://github.com/medaboyinigollajagadish/medaboyinigollajagadish)
 
 ---
 
@@ -35,10 +37,3 @@ Motivated MSc graduate with strong analytical, communication and coordination sk
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
----
-
-## 📈 GitHub Stats:
-
-![Jagadish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgjagadish&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgjagadish&layout=compact&theme=tokyonight)
