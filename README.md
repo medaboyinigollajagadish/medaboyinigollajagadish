@@ -1,13 +1,13 @@
 ## 💫 About Me:
-Motivated MSc graduate with strong analytical, communication and coordination skills. 9+ months of experience
-working into dataspace with expertise in Adavance Excel, SQL, Power BI & Python, Tabelau. Nasscom Certified Data
-Analyst. Seeking for Data analyst opportunity.
-Quick Learner | Analytical Thinking | Interested working with Data
+Motivated MSc graduate with strong analytical, communication, and coordination skills. 
+9+ months of experience working in the data space with expertise in Advanced Excel, SQL, Power BI, Python, and Tableau. 
+NASSCOM Certified Data Analyst seeking a Data Analyst opportunity. 
+Quick Learner | Analytical Thinking | Interested in Working with Data
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/medaboyini-golla-jagadish-aab09b333)
+[LinkedIn](https://www.linkedin.com/in/medaboyini-golla-jagadish-aab09b333) [GitHub](https://github.com/medaboyinigollajagadish/medaboyinigollajagadish)
 
-[GitHub](https://github.com/medaboyinigollajagadish/medaboyinigollajagadish)
+
 
 ---
 
