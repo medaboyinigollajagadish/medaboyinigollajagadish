@@ -5,7 +5,7 @@ NASSCOM Certified Data Analyst seeking a Data Analyst opportunity.
 Quick Learner | Analytical Thinking | Interested in Working with Data
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/medaboyini-golla-jagadish-aab09b333) [GitHub](https://github.com/medaboyinigollajagadish/medaboyinigollajagadish)
+[LinkedIn](https://www.linkedin.com/in/medaboyini-golla-jagadish-aab09b333)   [GitHub](https://github.com/medaboyinigollajagadish/medaboyinigollajagadish)
 
 
 
